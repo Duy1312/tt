@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yielding\\Desktop\\tt_samsung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB30285-5ACA-42CE-94F5-A57D0B913CFF}|tt_samsung\\tt_samsung.csproj|c:\\users\\yielding\\desktop\\tt_samsung\\tt_samsung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB30285-5ACA-42CE-94F5-A57D0B913CFF}|tt_samsung\\tt_samsung.csproj|solutionrelative:tt_samsung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB30285-5ACA-42CE-94F5-A57D0B913CFF}|tt_samsung\\tt_samsung.csproj|c:\\users\\yielding\\desktop\\tt_samsung\\tt_samsung\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB30285-5ACA-42CE-94F5-A57D0B913CFF}|tt_samsung\\tt_samsung.csproj|solutionrelative:tt_samsung\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB30285-5ACA-42CE-94F5-A57D0B913CFF}|tt_samsung\\tt_samsung.csproj|c:\\users\\yielding\\desktop\\tt_samsung\\tt_samsung\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2FB30285-5ACA-42CE-94F5-A57D0B913CFF}|tt_samsung\\tt_samsung.csproj|solutionrelative:tt_samsung\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\yielding\\Desktop\\tt_samsung\\tt_samsung\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "tt_samsung\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\yielding\\Desktop\\tt_samsung\\tt_samsung\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "tt_samsung\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:41:43.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\yielding\\Desktop\\tt_samsung\\tt_samsung\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "tt_samsung\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\yielding\\Desktop\\tt_samsung\\tt_samsung\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "tt_samsung\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:41:41.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\yielding\\Desktop\\tt_samsung\\tt_samsung\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "tt_samsung\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\yielding\\Desktop\\tt_samsung\\tt_samsung\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "tt_samsung\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-29T08:38:31.062Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
